@@ -32,7 +32,7 @@
 
 ![Image](Images/Status.png)
 
-## 6. A **repository** will be created in the GitHub account the you have provided and source code will be imported which is used in build configuration of applictaion:
+## 6. A **repository** will be created in the GitHub account that you have provided and source code will be imported which is used in build configuration of applictaion:
 
 ![Image](Images/GitRepo.png)
 
